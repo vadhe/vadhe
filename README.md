@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm Vadhe here 
-I'm javascript Lovers But something I hate Javascript 
-I think this is Benci jadi Cinta
