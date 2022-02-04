@@ -1,6 +1,6 @@
 ### Hi there 👋  Vadhe is Here
 
-#I'm intresting learning functional and I want to contribute in open open source
+### I'm intresting learning functional and I want to contribute in open open source
 
 ### Feel Free To Contact Me on links below
 [![Twitter](https://img.shields.io/badge/vADHE_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white) ](https://twitter.com/vadhe_) 
