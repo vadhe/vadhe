@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Data structure, Typescript deeper**
 
-- 👨‍💻 All of my projects are available at [vadhe,dev](vadhe,dev)
+- 👨‍💻 All of my projects are available at [vadhe.dev](https://vadhe.dev/)
 
 - 📫 How to reach me **aldyvadhe@gmail.com**
 
