@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vadhe_" target="blank"><img src="https://img.shields.io/twitter/follow/vadhe_?logo=twitter&style=for-the-badge" alt="vadhe_" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, and Data structure
+
 
 - 👨‍💻 All of my projects are available at [vadhe.me](https://vadhe.me/)
 
