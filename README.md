@@ -5,9 +5,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [vadhe.me](https://vadhe.me/)
+- 👨‍💻 All of my projects are available at [vadhe.co](https://vadhe.co/)
 
-- 📫 How to reach me **aldyvadhe@gmail.com**
+- 📫 How to reach me **rivaldi@vadhe.co**
 
 - ⚡ Fun fact **I just type with one hand**
 
