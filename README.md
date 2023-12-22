@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **rivaldi@vadhe.co**
 
-- ⚡ Fun fact **I just type with one hand**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
