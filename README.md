@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [vadhe.co](https://vadhe.co/)
 
-- 📫 How to reach me **rivaldi@vadhe.co**
+- 📫 How to reach me **aldyvadhe@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
